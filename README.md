@@ -1,3 +1,3 @@
-# wicked_problems
+# Wicked Problems
 
-this is my repository for data100 wicked problems
+Hi I'm Eden and this is my webpage for DATA100

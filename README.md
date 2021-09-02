@@ -1,3 +1,3 @@
 # Wicked Problems
 
-Hi I'm Eden and this is my webpage for DATA100
+Eden Ethington, DATA100

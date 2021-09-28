@@ -12,7 +12,7 @@ Hi I'm Eden Ethington and I'm a freshman at William and Mary from Fairfax, VA (N
 
 ### In-Class Assignments:
 
-#### [Blumenstock Response](Blumenstock_Response)
-#### [Sept. 21 Lightning Round](sept_21_in_class)
+#### [Blumenstock Response](Blumenstock_Response.md)
+#### [Sept. 21 Lightning Round](sept_21_in_class.md)
 
 ### Writing Assignments:

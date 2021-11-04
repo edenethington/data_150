@@ -1,4 +1,4 @@
-## 
+## Application of Data Science
 
 ### By Eden Ethington
 ---

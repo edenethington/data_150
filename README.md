@@ -17,10 +17,12 @@ Hi I'm Eden Ethington and I'm a freshman at William and Mary from Fairfax, VA (N
 #### [Sept. 23 Short Essay](In_Class_Sept_23.md)
 #### [Sept. 28 Personal Essay](In_Class_Sept_28.md)
 #### [Sept. 30 Short Essay](In_Class_Sept_30.md)
-#### [Oct. 7 Short Essay](In_Class_Oct_7.md)
+#### [Oct. 07 Short Essay](In_Class_Oct_07.md)
 #### [Oct. 12 Short Essay](In_Class_Oct_12.md)
 #### [Oct. 21 Short Essay](In_Class_Oct_21.md)
-#### [Nov. 2 Short Essay](In_Class_Nov_2.md)
+#### [Oct. 28 Short Essay](In_Class_Oct_28.md)
+#### [Nov. 02 Short Essay](In_Class_Nov_02.md)
+#### [Nov. 04 Short Essay](In_Class_Nov_04.md)
 
 ### Writing Assignments:
 

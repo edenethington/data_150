@@ -31,3 +31,6 @@ Hi I'm Eden Ethington and I'm a freshman at William and Mary from Fairfax, VA (N
 
 #### [Assignment 1: Annotated Bibliography](A1_Annotated_Bibliography.md)
 #### [Assignment 2: Literature Review](A2_Literature_Review.md)
+#### [Assignment 3: Methodological Investigation](A3_Methodological_Investigation.md)
+#### [Assignment 4: Presentation Slides](https://docs.google.com/presentation/d/1_voxor7Z3LKd0HW2H2OZ3yHWKl7g-kq8GBh_On4lJ3U/edit?usp=sharing)
+#### [Assignment 4: Abstract](A4_Abstract.md)

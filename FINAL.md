@@ -21,8 +21,7 @@ Vaccination rollout efforts have been further hindered by the COVID-19 pandemic,
 
 ### Budget Estimate:
 
-
-
+table for data sci final.png
 
 ### Bibliography
 
